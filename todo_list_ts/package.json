@@ -2,7 +2,7 @@
   "name": "todo_list_ts",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://yulyana1994.github.io/TODO_LIST_TS/",
+  "homepage": "https://yulyana1994.github.io/TODO_LIST_TS",
   "dependencies": {
     "@emotion/react": "^11.10.5",
     "@emotion/styled": "^11.10.5",
